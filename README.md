@@ -13,13 +13,9 @@ vanilla JS를 이용한 미니 SHOP 프로젝트 색상 및 제품에 따른 상
 
 # 주요기능 
 
-![모멘텀 기능](https://user-images.githubusercontent.com/44168355/93849987-287b4180-fce8-11ea-9701-9d92ea93afd1.png)
-
-
-* vanilla JS
- * data.jso파일을 구성하여 json배열 구성
- * json데이터를 받은 후 이벤트리스너 및 필터를 활용하여 동적 카테고리 구성
- * 
+* Vanilla JS
+  * data.jso파일을 구성하여 json배열 구성
+  * json데이터를 받은 후 이벤트리스너 및 필터를 활용하여 동적 카테고리 구성 
  
 * CSS  
   * 목록 스크롤링
