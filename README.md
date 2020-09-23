@@ -4,7 +4,7 @@
 
 사용기술 : css / html / vanilla JS
 
-실행 페이지 : (https://leesoonyong.github.io/momentum/)
+실행 페이지 : (https://leesoonyong.github.io/JavaScript-miniproject/)
 
 ![자바스크립트 미니프로젝트](https://user-images.githubusercontent.com/44168355/93975486-7c525d00-fdb2-11ea-9c27-1df76f9f03f6.png)
 
